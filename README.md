@@ -1,10 +1,10 @@
 # Awesome-TKGC
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/jiapuwang/Survey-on-TKGC) 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/jiapuwang/Awesome-TKGC) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-  ![](https://img.shields.io/github/last-commit/jiapuwang/Survey-on-TKGC?color=green) 
+  ![](https://img.shields.io/github/last-commit/jiapuwang/Awesome-TKGC?color=green) 
  ![](https://img.shields.io/badge/PRs-Welcome-red)
- ![](https://img.shields.io/github/stars/jiapuwang/Survey-on-TKGC?color=yellow)
-![](https://img.shields.io/github/forks/jiapuwang/Survey-on-TKGC?color=lightblue) 
+ ![](https://img.shields.io/github/stars/jiapuwang/Awesome-TKGC?color=yellow)
+![](https://img.shields.io/github/forks/jiapuwang/Awesome-TKGC?color=lightblue) 
 
 A collection of papers and resources about temporal knowledge graph completion (TKGC).
 
