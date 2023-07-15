@@ -8,7 +8,7 @@
 
 A collection of papers and resources about temporal knowledge graph completion (TKGC).
 
-<img src="Figures/Figure 1.png" width = "900" />
+<img src="Figures/Figure.png" width = "900" />
 
 ## Overview
 
