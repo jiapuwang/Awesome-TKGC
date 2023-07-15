@@ -23,7 +23,7 @@ In this repository, we collect recent literature on TKGC.  We present a comprehe
   - [Related Surveys](#related-surveys)
   - [Interpolation](#Interpolation)
     - [Timestamps Dependent-based TKGC Methods](#Timestamps-Dependent-based-TKGC-Methods)
-    - [Specific Functions-based TKGC Methods](#Specific-Functions-based-TKGC-Methods)
+    - [Timestamps-Specific Functions-based TKGC Methods](#Specific-Functions-based-TKGC-Methods)
     - [Deep Learning-based TKGC Methods](#Deep-Learning-based-TKGC-Methods)
   - [Extrapolation](#Extrapolation)
     - [Rule-based TKGC Methods](#Rule-based-TKGC-Methods)
