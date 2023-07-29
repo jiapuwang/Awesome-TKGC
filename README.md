@@ -8,7 +8,13 @@
 
 A collection of papers and resources about temporal knowledge graph completion (TKGC).
 
+<img src="Figures/Figure.png" width = "1000" />
 
+## Overview
+
+In this repository, we collect recent literature on TKGC.  We present a comprehensive overview that summarizes two general frameworks: *1) Interpolation*, *2) Extrapolation*.
+
+<img src="Figures/Framework.png" width = "800" />
 
 ## Table of Contents
 - [Survey-on-TKGC](#Survey-on-TKGC)
