@@ -102,7 +102,7 @@ In this repository, we collect recent literature on TKGC.  We present a comprehe
 * TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs (AAAI 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20330) [[code]](https://github.com/liu-yushan/TLogic)
 * Spatio-Temporal Knowledge Graph Based Forest Fire Prediction with Multi-Source Heterogeneous Data (Remote Sensing 2022) [[paper]](https://www.mdpi.com/2072-4292/14/14/3496)
 * An Adaptive Logical Rule Embedding Model for Inductive Reasoning over Temporal Knowledge Graphs (EMNLP 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.493.pdf) [[code]](https://github.com/mxadorable/ALRET-IR)
-* TILP: Differentiable learning of logical rules for knowledge base reasoning (ICLR 2023) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2017/hash/0e55666a4ad822e0e34299df3591d979-Abstract.html) [[code]](https://openreview.net/attachment?id=_X12NmQKvX&name=supplementary_material)
+* TILP: Differentiable Learning of Temporal Logical Rules on Knowledge Graphs (ICLR 2023) [[paper]](https://openreview.net/pdf?id=_X12NmQKvX) [[code]](https://github.com/xiongsiheng/TILP)
 * Temporal knowledge graph reasoning with iterative guidance by temporal logical rules (Information Sciences 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013871)
 * TFLEX:TemporalFeature-Logic Embedding Framework for Complex Reasoning overTemporal Knowledge Graph (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2205.14307.pdf) [[code]](https://github.com/LinXueyuanStdio/TFLEX)
 * Multi-hop temporal knowledge graph reasoning with temporal path rules guidance (Expert Systems with Applications 2023) [[paper]]
