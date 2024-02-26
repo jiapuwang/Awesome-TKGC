@@ -84,7 +84,7 @@ In this repository, we collect recent literature on TKGC.  We present a comprehe
 * Timespan-Aware Dynamic Knowledge Graph Embedding by Incorporating Temporal Evolution (IEEE Access 2020) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8950081) [[code]](https://github.com/tangmier/TDG2E)
 * Learning BiLSTM-based Embeddings for Relation Prediction  in Temporal Knowledge Graph (JPCS 2021) [[paper]](https://iopscience.iop.org/article/10.1088/1742-6596/1871/1/012050/pdf)
 * A Temporal Knowledge Graph Completion Method Based on Balanced Timestamp Distribution (Arxiv 2021) [[paper]](https://arxiv.org/pdf/2108.13024.pdf)
-* Temporal knowledge graph completion using box embeddings (AAAI 2022) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412028) [[code]](https://github.com/JohannesMessner/BoxTE)
+* Temporal knowledge graph completion using box embeddings (AAAI 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20746) [[code]](https://github.com/JohannesMessner/BoxTE)
 * TRHyTE: Temporal Knowledge Graph Embedding Based on Temporal-Relational Hyperplanes (DASFAA 2022) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_10)
 * Temporal Knowledge Graph Reasoning with Low-rank and Model-agnostic Representations (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2204.04783.pdf) [[code]](https://github.com/iodike/ChronoKGE)
 * Hyperplane-based time-aware knowledge graph embedding for temporal knowledge graph completion (JIFS 2022) [[paper]](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs211950)
