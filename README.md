@@ -38,7 +38,7 @@ In this repository, we collect recent literature on TKGC.  We present a comprehe
 ## Related Surveys
 
 * A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects (Arxiv, 2023) [[paper]](http://arxiv.org/abs/2308.02457)
-* Unifying large language models and knowledge graphs: A roadmap (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2306.08302.pdf)
+* Unifying large language models and knowledge graphs: A roadmap (Arxiv, 2023) [[TKDE 2024]](https://ieeexplore.ieee.org/document/10387715)
 * A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multimodal (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2212.05767.pdf)
 
 ## Interpolation
