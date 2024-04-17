@@ -107,6 +107,7 @@ In this repository, we collect recent literature on TKGC.  We present a comprehe
 * TFLEX:TemporalFeature-Logic Embedding Framework for Complex Reasoning overTemporal Knowledge Graph (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2205.14307.pdf) [[code]](https://github.com/LinXueyuanStdio/TFLEX)
 * Multi-hop temporal knowledge graph reasoning with temporal path rules guidance (Expert Systems with Applications 2023) [[paper]]
 * TEILP: Time Prediction over Knowledge Graphs via Logical Reasoning (AAAI 2024) [[paper]](https://arxiv.org/pdf/2312.15816.pdf) [[code]](https://github.com/xiongsiheng/TEILP)
+* Temporal inductive logic reasoning (IJCAI 2024) [[paper]](https://arxiv.org/pdf/2206.05051.pdf)  
 ### Graph Neural Network-based TKGC Methods
 * Know-evolve: Deep temporal reasoning for dynamic knowledge graphs (PMLR 2017) [[paper]](https://arxiv.org/pdf/1705.05742.pdf) 
 * TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.462/) [[code]](https://github.com/JiapengWu/TeMP)
