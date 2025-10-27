@@ -14,7 +14,7 @@ A collection of papers and resources about temporal knowledge graph completion (
 
 In this repository, we collect recent literature on TKGC. We present a comprehensive overview that summarizes this trajectory in five stages: *1) Static-based approaches*, *2) Dynamic temporal modeling*, *3) Generalization-oriented learning*, *4) Explainable temporal reasoning*, *5) LLM-augmented TKGC*.
 
-<img src="Figures/Framework_new.png" width = "800" />
+<img src="Figures/Framework.png" width = "800" />
 
 ## Table of Contents
 - [Survey-on-TKGC](#Survey-on-TKGC)
