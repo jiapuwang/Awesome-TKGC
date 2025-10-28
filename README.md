@@ -14,7 +14,7 @@ A collection of papers and resources about temporal knowledge graph completion (
 
 In this repository, we collect recent literature on TKGC. Over the past decade, research on TKGC has evolved through a well-defined sequence of methodological stages, reflecting the increasing sophistication and scope of the field. We present a comprehensive overview that summarizes this trajectory in five stages: *1) Static-based approaches*, *2) Dynamic temporal modeling*, *3) Generalization-oriented learning*, *4) Explainable temporal reasoning*, *5) LLM-augmented TKGC*.
 
-<img src="Figures/Framework.png" width = "800" />
+<img src="Figures/Framework.png" width = "1000" />
 
 ## Table of Contents
 - [Survey-on-TKGC](#Survey-on-TKGC)
@@ -51,6 +51,55 @@ In this repository, we collect recent literature on TKGC. Over the past decade, 
 * A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects (Arxiv, 2023) [[paper]](http://arxiv.org/abs/2308.02457)
 * Unifying large language models and knowledge graphs: A roadmap (TKDE 2024) [[paper]](https://ieeexplore.ieee.org/document/10387715)
 * A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multimodal (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2212.05767.pdf)
+
+## Static Model Extension
+### Timestamps-dependent Representations
+* Towards Time-Aware Knowledge Graph Completion (COLING 2016) [[paper]](https://aclanthology.org/C16-1161.pdf) [[code]](https://github.com/freedomlp/TTransE)
+* HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding (EMNLP 2018) [[paper]](https://aclanthology.org/D18-1225.pdf) [[code]](https://github.com/malllabiisc/HyTE)
+* TKGFrame: A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion (APWeb-WAIM 2020) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-60259-8_16)
+* Tensor decomposition-based temporal knowledge graph embedding (ICTAI 2020) [[paper]](https://ieeexplore.ieee.org/abstract/document/9288194)
+* Specific Time Embedding for Temporal Knowledge Graph Completion (ICCI* CC 2020) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9450214)
+* Tucker decomposition-based temporal knowledge graph completion (KBS 2022) [[paper]](https://arxiv.org/pdf/2011.07751.pdf)
+* TBDRI: block decomposition based on relational interaction for temporal knowledge graph completion (APIN 2023) [[paper]](https://link.springer.com/article/10.1007/s10489-022-03601-5)
+* Temporal knowledge graph embedding via sparse transfer matrix (IS 2023) [[paper]](https://pdf.sciencedirectassets.com/271625/1-s2.0-S0020025522X00352/1-s2.0-S0020025522015122/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAcaCXVzLWVhc3QtMSJHMEUCICIFgrNoNeHCf6ExQnPW8wfrTU%2B57snlOn%2BoobK5GLmNAiEAh8XmSc%2BGOLI%2B7KpyLehNWAiFnieKTR1ZZHFpBI8VrScqsgUIMBAFGgwwNTkwMDM1NDY4NjUiDGMW%2BsabihJCvSBJCCqPBbE9xkvbBkPna97mbbDxEfCCuJGr3wwM0hD1eN%2BMAMTTJKKq2HYfw3pTtWAg%2Fsa61nC%2FMcdeO2WYHi23Z%2Bm%2FhVC7qgnFeGTl8gGu0leBOUNL5zO5XOciJn1rY8fQb3GIPgfC8af0ZWwHAEMEZ5rihERba0sPsfrbvz1MqF9m1DIiA3kfC1ViZty6GUE1eLT2dHCB1fH6CLPs7m5lSlpDo%2B2bQ4qyTtGkaQvdKPx2sPmDVmYZUkPX8bD3zG6yLAsNWC8x%2BHRlOF8zvdh1kPjhOn9WXCBJ1E6F1mHHMm2jJPlE%2BmPc4%2FSp5QhS6hoBLl8Q1i3WloFgEi%2FDs2d5mDL9YxpFqsx%2FbhC3nc1ECyeFlUy0OQsZhwSVf69g1IWaOlwbhYk2fxrGtv2c1jCF1Tr2TIPAny5NvnF9jOyH7hO0lavCq1QRgS755u5iQXIrNYrFNS7kO8pxN4Gr6atTl45RwaJCIW9p%2FplvFW5PYUdXcDzPvPWWRXRb6JP0nauIxs%2Bi5ZS8rO4ZBCNUMZ37zMxupM1iPDX0eEoRRyd0gPMHdVadf4%2FEflgxrSrs90jq%2F3br7tB6N%2FZmDSuUvaEuH6trogvFEx%2F86iOGu2%2FOwFkzIaaqHjKoaYOcH%2Bs3zr2HYzHhn9EfZSP2r8IoFrfjdoX7yMerxE979fM9n5SThwTX%2FFaHILV6HvIkBuoiPT1GYAOkdH%2ByGC%2BRnxKImMnYoycHbvtUPq61FtolfD%2F5ZOlt89p2nNkxxuyTDCymjUg0tSYZZEQjFmJqykYv%2Fb%2FixflJ0mEhpu3MbqnSoThboI%2FpMlQL5o40vCsnIyk37zn0FJqXx9gJGEngK4418SZjxKs2%2B79jB%2BIwi03F%2FZhIv6aSBqIw0bKOowY6sQGCkyx%2BZZnLJ4f%2BlZnz7edPiGeA9uGzq3ByL%2FFOmxunvzzGSyjuOb5JGcZut9A58qrrEzm7nms8YAM%2FbBdD2cPvSRL%2BGUHxlpO0u91EPWmyJFjC%2F2TY1rV2Muz0G%2FXstD8AS3o%2Fb4dcPvrV8yudugoQS%2F6KH6esiOT%2BozuDj%2B5aFn5z3PbeKqJQqkw6MxMC013%2B%2BDSzFKzDoG5ZaDeS2s%2BWRwp%2B8mPt%2Far29%2B%2FaNW7nWoM%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230516T150826Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTZIFRAKY%2F20230516%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2f28b328602f7ddbdec26cd139c2db6e9d60b94b21f1773233ab6d1d446397b6&hash=b428ac6e6200a353978059febea3aa96962e67f721756cb479e3007f5ca41058&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0020025522015122&tid=spdf-303352b2-b33d-43eb-89c2-bab3b570ccba&sid=7c5ac5349129c345745b9562660afaa20e04gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1908560259535d59505105&rr=7c848935d9066e4f&cc=cn) [[code]](https://github.com/ZERONE00/TASTER)
+
+### Time-aware Embedding Function Models
+* Towards Temporal Knowledge Graph Embeddings with Arbitrary Time Precision (CIKM 2020) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412028) [[code]](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
+* STKE: Temporal Knowledge GraphEmbedding in the Spherical Coordinate System (ICAIS 2022) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-06767-9_24)
+* DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion (EMNLP 2020) [[paper]](https://arxiv.org/pdf/2011.03984.pdf) [[code]](https://github.com/TemporalKGTeam/DyERNIE)
+* Temporal knowledge graph completion based on time series Gaussian embedding (ISWC 2020) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-62419-4_37) [[code]](https://github.com/soledad921/ATISE)
+TComplEX[70]2:Tensor decompositions for temporal knowledge base completion
+* TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation (COLING 2020) [[paper]](https://arxiv.org/pdf/2010.01029.pdf)
+* Tensor decompositions for temporal knowledge base completion (ICLR 2020) [[paper]](https://arxiv.org/pdf/2004.04926.pdf) [[code]](https://github.com/facebookresearch/tkbc)
+
+* A Temporal Knowledge Graph Completion Method Based on Balanced Timestamp Distribution (Arxiv 2021) [[paper]](https://arxiv.org/pdf/2108.13024.pdf)
+* Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings (NAACL 2021) [[paper]](https://aclanthology.org/2021.naacl-main.202.pdf) [[code]](https://github.com/soledad921/TeLM)
+* ChronoR: Rotation Based Temporal Knowledge Graph Embedding (AAAI 2021) [[paper]](https://arxiv.org/pdf/2103.10379.pdf)
+* Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures (ACL 2021) [[paper]](https://arxiv.org/pdf/2106.04311.pdf) [[code]](https://github.com/HazyResearch/KGEmb)
+
+* TRHyTE: Temporal Knowledge Graph Embedding Based on Temporal-Relational Hyperplanes (DASFAA 2022) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_10)
+* Dynamic Embedding Graph Attention Networks for Temporal Knowledge Graph Completion (ICKSEM 2022) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_55#Fig1)
+* Hyperplane-based time-aware knowledge graph embedding for temporal knowledge graph completion (JIFS 2022) [[paper]](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs211950)
+* Temporal knowledge graph completion using box embeddings (AAAI 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20746) [[code]](https://github.com/JohannesMessner/BoxTE)
+* Temporal Knowledge Graph Completion with Approximated Gaussian Process Embedding (ICCL 2022) [[paper]](https://aclanthology.org/2022.coling-1.416.pdf)
+* Improving temporal knowledge graph embedding using tensor factorization (APIN 2023) [[paper]](https://link.springer.com/article/10.1007/s10489-021-03149-w)
+* RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion (ACL 2022) [[paper]](https://arxiv.org/pdf/2203.07993.pdf)
+* Wasserstein Adversarial Learning based TemporalKnowledge Graph Embedding (Arxiv 2022) [[paper]](https://arxiv.org/pdf/2205.01873.pdf)
+* Each Snapshot to Each Space: Space Adaptation for Temporal Knowledge Graph Completion (ISWC 2022) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_15) [[code]](https://github.com/codeofpaper/SANe)
+* Hierarchy-Aware Temporal Knowledge Graph Embedding (ICKG 2022) [[paper]](https://ieeexplore.ieee.org/abstract/document/10030053)
+* Leveraging Static Models for Link Prediction in Temporal Knowledge Graphs (ICTAI 2021) [[paper]](https://arxiv.org/pdf/2106.15223.pdf) [[code]](https://github.com/wradstok/SpliMe)
+* Dihedron Algebraic Embeddings for Spatio-Temporal Knowledge GraphCompletion (ESWC 2022) [[paper]](https://jens-lehmann.org/files/2022/eswc_spatiotemporal_kge.pdf) [[code]](https://github.com/mojtabanayyeri/Spatio-temporal-KGEs)
+
+* Householder Transformation-Based Temporal Knowledge Graph Reasoning (Electronics 2023) [[paper]](https://www.mdpi.com/2079-9292/12/9/2001)
+* BiQCap: A Biquaternion and Capsule Network-Based Embedding Model for Temporal Knowledge Graph Completion (DASFAA 2023) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_45)
+* Geometric Algebra based Embeddings for Static and Temporal Knowledge Graph Completion (TKDE 2022) [[paper]](https://arxiv.org/pdf/2010.01029.pdf)
+* QDN: A Quadruplet Distributor Network for Temporal Knowledge Graph Completion (TNNLS 2023) [[paper]](https://ieeexplore.ieee.org/abstract/document/10132432) [[code]](https://github.com/jiapuwang/QDN-A-Quadruplet-Distributor-Network-for-Temporal-Knowledge-Graph-Completion.git)
+
+* IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion (WWW 2024) [[paper]](https://dl.acm.org/doi/10.1145/3589334.3645361)
+* HGE: embedding temporal knowledge graphs in a product space of heterogeneous geometric subspaces (AAAI 2024) [[paper]](https://doi.org/10.1609/aaai.v38i8.28739) [[code]](https://github.com/NacyNiko/HGE)
+* MADE: Multicurvature Adaptive Embedding for Temporal Knowledge Graph Completion (TCYB 2024) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10535899)
+* ConvTKG: A query-aware convolutional neural network-based embedding
+model for temporal knowledge graph completion (Neurocomputing 2024) [[paper]](https://doi.org/10.1016/j.neucom.2024.127680)
 
 ## Interpolation
 ### Timestamps Dependent-based TKGC Methods
