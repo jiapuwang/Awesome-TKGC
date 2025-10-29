@@ -225,14 +225,20 @@ IndiQ[127]1:Temporal knowledge graph link predictions with query-guided temporal
 * TempoQR: Temporal Question Reasoning over Knowledge Graphs (AAAI 2022) [[paper]](https://arxiv.org/abs/2112.05785)
 * An improving reasoning network for complex question answering over temporal knowledge graphs (APIN 2023) [[paper]](https://link.springer.com/article/10.1007/s10489-022-03913-6)
 * TKGQA Dataset: Using Question Answering to Guide and Validate the Evolution of Temporal Knowledge Graph (Data 2023) [[paper]](https://www.mdpi.com/2306-5729/8/3/61)
+
 ### Medical and Risk Analysis Systems
+* Learning entity and relation embeddings for knowledge graph completion (AAAI 2015) [[paper]](https://dl.acm.org/doi/10.5555/2886521.2886624)
 * Research of medical aided diagnosis system based on temporal knowledge graph (ICADMA 2020) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-65390-3_19)
 * A temporal semantic search system for traditional Chinese medicine based on temporal knowledge graphs (JIST 2019) [[paper]](https://link.springer.com/chapter/10.1007/978-981-15-3412-6_2)
 * Spatio-Temporal Knowledge Graph for Meteorological Risk Analysis (ICSQRSC 2021) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9742265)
 * Urban multi-source spatio-temporal data analysis aware knowledge graph embedding (Symmetry 2020) [[paper]](https://www.mdpi.com/2073-8994/12/2/199)
+* HC-LLM: Historical-constrained large language models for radiology report generation (AAAI 2025) [[paper]](https://doi.org/10.1609/aaai.v39i6.32596)
+
 ### Recommendation Systems
 * Travel Attractions Recommendation with Travel Spatial-Temporal Knowledge Graphs (ICPCSEE 2018) [[paper]](https://link.springer.com/chapter/10.1007/978-981-13-2206-8_19)
 * Temporal Knowledge Graph Incremental Construction Model for Recommendation (Web and Big Data 2020) [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-60259-8_26)
 * Building and exploiting spatial–temporal knowledge graph for next POI recommendation (KBS 2022) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705122010449)
 * Temporal Knowledge Graph Embedding for Effective Service Recommendation (TSC 2022) [[paper]](https://ieeexplore.ieee.org/document/9411699)
+* NR4DER: Neural re-ranking for diversified exercise recommendation (SIGIR 2025) [[paper]](https://dl.acm.org/doi/abs/10.1145/3726302.3730046)
+* GraphRAG-Induced Dual Knowledge Structure Graphs for Personalized Learning Path Recommendation [[paper]](https://arxiv.org/abs/2506.22303)
 
